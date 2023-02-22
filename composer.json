@@ -1,0 +1,19 @@
+{
+    "name": "codernewbie04/my-telu",
+    "description": "Un-Official My Tel-U API Wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Codernewbie04\\MyTelu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akmal Muhamad Firdaus",
+            "email": "coder.newbie04@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
