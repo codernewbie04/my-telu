@@ -1,4 +1,5 @@
 <h2 align="center">Un-Official My Tel-U API Wrapper</h2>
+IDK if this is legal or not, but keep quiet from Tel-U officers XD
 
 | Method  | Result  | OVO Version
 |---|---| --- |
