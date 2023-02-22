@@ -1,13 +1,13 @@
 <h2 align="center">Un-Official My Tel-U API Wrapper</h2>
 IDK if this is legal or not, but keep quiet from Tel-U officers XD
 
-| Method  | Result  | OVO Version
+| Method  | Result  | My Tel-U Version
 |---|---| --- |
-| `Login`  | OK | 1.0.0(23 Feb 23)
-| `Profile`  | OK | 1.0.0(23 Feb 23)
-| `Schedule`  | OK | 1.0.0(23 Feb 23)
-| `Grades`  | OK | 1.0.0(23 Feb 23)
-| `scanQR`  | OK | 1.0.0(23 Feb 23)
+| `Login`  | OK | 1.4.7(23 Feb 23)
+| `Profile`  | OK | 1.4.7(23 Feb 23)
+| `Schedule`  | OK | 1.4.7(23 Feb 23)
+| `Grades`  | OK | 1.4.7(23 Feb 23)
+| `scanQR`  | OK | 1.4.7(23 Feb 23)
 
 
 ## Other Lib
